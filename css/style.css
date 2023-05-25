@@ -15,13 +15,7 @@ ol {
     list-style-type: none;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
+h1,h2,h3,h4,h5,h6,p {
     margin: 0;
     padding: 0;
     line-height: 0.8;
@@ -31,28 +25,7 @@ p {
     border-bottom: none !important;
 }
 
-
 /* All Common CSS End  */
-
-
-/* #mesu{
-    height: 500px;
-    background: rgba(12, 180, 144, 0.753);
-}
-.safu{
-    height: 150px;
-    background: rgba(192, 119, 11, 0.767);
-}
-
-.box{
-    height: 150px;
-    background: rgb(10, 70, 160);
-    margin-bottom: 20px;
-} */
-
-
-/* =========================== */
-
 
 /* Header Part Start */
 
@@ -801,7 +774,7 @@ p {
 .footer_text ul li {
     display: inline-block;
     padding-right: 6px;
-    color: #f3c791;
+    color: #2beb12;
     font-size: 13px;
     font-weight: 400;
     font-family: 'Montserrat', sans-serif;
